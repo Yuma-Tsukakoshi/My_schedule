@@ -1,13 +1,13 @@
 # issue_name
 
-### programming
+### ◆programming
 [Laravel]
 [React]
 [TypeScript]
 [Recoil]
 [Notion_blog]
 
-### self_growth
+### ◆self_growth
 [Intern]
 [license]
 [training]
@@ -17,5 +17,5 @@
 - [ ] temp
 
 ## reference
-
+[ GitHub ] (https://github.com/Yuma-Tsukakoshi)
 
