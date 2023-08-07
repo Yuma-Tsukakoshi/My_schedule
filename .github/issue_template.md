@@ -17,5 +17,5 @@
 - [ ] temp
 
 ## reference
-[ GitHub ] (https://github.com/Yuma-Tsukakoshi)
+[GitHub](https://github.com/Yuma-Tsukakoshi)
 
