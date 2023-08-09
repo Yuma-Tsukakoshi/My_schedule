@@ -10,4 +10,4 @@ jobs:
     steps:
       - uses: mashabow/issue-duplicator-action@v1
         with:
-          github-token: ${{ secrets.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 }}
+          github-token: ${{ secrets.ISSUE_DUPLICATOR_PAT }}
