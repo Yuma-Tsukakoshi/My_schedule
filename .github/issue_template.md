@@ -1,17 +1,10 @@
 # issue_name
 
 ### ◆programming
-[Laravel]
-[React]
-[TypeScript]
-[Recoil]
-[Notion_blog]
+[Laravel][React][TypeScript][Recoil][Notion_blog]
 
 ### ◆self_growth
-[Intern]
-[license]
-[training]
-[English] 
+[Intern][license][training][English] 
 
 ## Exit_Condition
 - [ ] temp
